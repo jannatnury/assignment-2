@@ -69,11 +69,26 @@ section .hero-container{
 .influencer-accesories{
     Width:329px;
     Height:476px;
-    background-color:greenyellow ;
+    background-color:rgb(214, 247, 166) ;
     /* display:block; */
     justify-content: center;
     align-items: center;
 }
 .feature-details{
     width: 50%;
+    margin-left: 7em;
+}
+.features{
+    display: flex;
+    margin-top: 5em;
+    margin-left: 5em;
+}
+.footer{
+     background-color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 8px;
+}
+.foo-head{
+    color: blanchedalmond;
 }
